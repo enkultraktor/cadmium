@@ -1491,7 +1491,7 @@ Cadmium
 			MaxActive 18
 			SpawnCount 6
 			WaitBetweenSpawns 5
-			WaitForAllDead "wavespawn48"
+			WaitForAllDead "wavespawn45"
 			TotalCurrency 0
 
         	TFBot
